@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className='min-h-screen bg-gray-300 flex items-center justify-center'>
-     <div className='container w-[40vw] mx-auto px-4 lg:px-8'><CurrencyConvertor/></div>
+     <div className='container w-[70vw] mx-auto px-4 lg:px-8'><CurrencyConvertor/></div>
     </div>
   )
 }
